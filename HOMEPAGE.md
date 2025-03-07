@@ -184,7 +184,7 @@
         <div class="text-sm font-light tracking-wider">Architecture and design</div>
       </div>
       <nav class="hidden md:flex space-x-6 text-white text-sm">
-        <a class="nav-link" href="https://www.blackbox.ai/screenshot/XMYaH3lbM0iWO854E0sbu?share=true">Projects</a>
+        <a class="nav-link" href="PROJECTS.md">Projects</a>
         <a class="nav-link" href="#">Ecospace</a>
         <a class="nav-link" href="#">Team</a>
         <a class="nav-link" href="#">About</a>
